@@ -179,9 +179,7 @@ Client_blog_proj (folder)
 |----developer_notes.txt     # Given to the DevOps Teams (txt file)
 ```
 
-## Expected Outcome
 
-![Phonebook App Search Page](./outcome.png)
 
 ### At the end of the project, following topics are to be covered;
 
